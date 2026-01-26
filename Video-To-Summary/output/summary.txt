@@ -1,0 +1,44 @@
+Graffinon: I want to go more conceptual. So I don't want to dive into the math and mathematical proofs. There will be some hands on, and then we use Python to make the point of the lectures. But what we have for today is what is machine learning, some examples, hard works, what the learning means.
+
+What is being increasingly popular at this stage are these three. Mostly machine learning, perception, natural language, has been increasingly popular over the last year. So what's machine learning? I like this definition. It's the science and art of programming computers so that they can learn from data. By the way, the slides will be available in ISA Connect.
+
+Machine learning is a new way of working with data. Instead of a program, it's done by a model. This is a classical program with machine learning. You put some data, you get some results. This only works for some task. So I don't see like at this replace in software developers, so it's only for some kind of task.
+
+Most applications are used as Span filter. And the other thing which is also quite useful is a recommendation engine for cross-selling. I don't know if you use an Amazon or Netflix or so. But we have this kind of technology. Predicting for how much property will be sold. And we reach a point where it's much better than humans.
+
+For several cards, the part that is doing the object recognition is also done with machine learning. I use it a lot for translating English to German to English. Playing games, I have not used the news about the Alpha Zero Go, also Alpha Go Zero, Alpha Zero AI, and also playing games like Super Mario and so.
+
+Dr. Mast found that a scanner called Asperer was introducing torques in the platform. At that time it was a bit remarkable because nobody was thinking that they were payloads will influence in their platform. An unusual behavior is often a precursor if you like a phenomenally. So we look for unusual behavior and tell flight control engineers that something maybe is suspicious.
+
+The project was part of a machine learning competition. The goal was to predict the thermal power consumption for two Martian years. The results were quite impressive and now they are working and how to make it operational. The project is being led by a team from the University of California, Los Angeles. The mission is expected to be completed by 2018.
+
+This was a nice one. It's not only for nanbo but also for text. This was in collaboration with the communication office and the goal was to predict which articles will receive a higher number of views. Even before publishing in the ISA website an article you will know if many people will read it or not.
+
+The learning is finding which are the model parameters that represent best the input and output mapping. This is maybe the abstract so I prepared an example what does it mean. If you have a linear regression you have two parameters M and B and parameters in the sense that the model is parametrized.
+
+We can have more complex models for instance we can have polynomials. We can have decision trees and decision trees. We are looking also to minimize the error. For instance if I have this data I can fit this line. These are the parameter values for M and B and this is what learning means in a very simple model.
+
+The type of learning depends on the level of supervision we can apply to the model. For supervised our supervision is that we can tell for every case what the correct answer was. And the focus on supervised learning is to predict the future more than anything else. So sometimes it is difficult to understand what the machine learning is doing and what the model is doing.
+
+We are looking for insights while looking at data. And the focus is more understanding the past. An example would be the market analysis that Supermarket do. For instance now it is quite clear for us that the milk is close to the cheese but it was not always like this. It was discovered that people who buy milk also buy cheese and it was decided that to put them together.
+
+For reinforcement learning the supervision is that we only know the final outcome for instance when playing go or chess. We know if you won or if you lost but we cannot really tell which of the steps that you took led to victory or make you lost so we don't know. So the focus here is more to find which is the next action which is most likely to lead you to winning if you like.
+
+Rvised learning and some of the people call it predictive analytics and it's about predicting so predicting but you will buy predicting which advertisement you would click predicting how much this house will be sold for. Depending on what you are predicting we can differentiate two cases so we can have regression or classification and regression is to predict real numbers.
+
+If you are going to solve a problem you have to understand quite well the problem. Next is to have a evaluation criterion. So are you going to measure maybe how good it is a classifying so you measure accuracy or you measure the error in predicting. Next thing would be a baseline so once you decide which evaluation criteria you have do you know how you are doing it now.
+
+It is not only the data gathering process but it is also that you need to encode your knowledge. For instance if you know that you are predicting the thermal power consumption and the distance to the sun is something that influences. You need to put your knowledge especially if you do not have enough data.
+
+For evaluation criteria I think this is the only formula we have today. And this is a typical measurement for regression. efine a criteria and you find the parameter that minimize your error. And then you need to do some error analysis. Based on this you might decide that you need a more complex model. Or you need more data or you can understand the problem.
+
+Machine learning models are able to perform well for data that we never seen. The reason it doesn't feel right is because we want machine learning models to generalize. The green line. it means is that this is the estimated value. This is the real value. We square them and we just add together the average. And basically we compare our estimation with the real.
+
+The problem is that we never have like one dimension or two dimensional data. We have usually many many dimension in machine learning. So we need to figure out how or when this kind of thing is happening that we have a model that is not really serving us. So how to detect that? The solution is that from the data we have we can split the data into.
+
+Overfeating means that your model is too complex for the kind of data you have. So you need a more complex model or you need more data. Usually what happens is that maybe what you have is a function of some data and there is some data that you're not putting or that you need to do some more features.
+
+Most of the effort goes on preparing the data. And of course for production you need to make sure that all interfaces that you need will be there. This is also time consuming. So within a we cover a lot today. So now you know what machine learning is, some examples which are the type of machine learning we have, regression classification.
+
+In the second session we are going to dive more on techniques or all the other sessions and more for techniques. And they will have two parts, one part where we discussed how the technology works and then we do some Python hands on. So that's from my side. What I wanted to tell you today, thank you for your attention and if you have some questions.
+
