@@ -1,0 +1,6 @@
+Kafka is a distributed event streaming platform that can scale massive pipelines of real-time data. When an event occurs, like a website visit, the producer API creates a new record. These records are stored to disk in an ordered, immutable log called a topic, which can persist forever or disappear when no longer needed.
+
+Kafka can handle more throughput and is ideal for streaming data applications. It's used today by companies like LIF to collect and process geolocation data, Spotify and Netflix for log processing, and CloudFlare for real-time analytics. To get started, download it and use a tool like Zookeeper or K-Raff.
+
+Kafka Streams API can take things to another level. It can do things like stateless transformation, like filtering out a subset of events. And at that point, you're able to manage real-time streams of data at virtually any scale. This has been Apache Kafka in 100 seconds.
+
